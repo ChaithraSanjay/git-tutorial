@@ -1,1 +1,1 @@
-git conflict resolved.
+feature2
