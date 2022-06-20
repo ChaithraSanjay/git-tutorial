@@ -1,1 +1,1 @@
-conflict2
+git conflict resolved.
